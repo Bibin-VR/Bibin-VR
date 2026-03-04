@@ -12,9 +12,9 @@
 
 ### 🎯 Quick Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=BibinVR15&color=blueviolet&style=for-the-badge)
-[![GitHub Followers](https://img.shields.io/github/followers/BibinVR15?style=for-the-badge&logo=github&color=00F7FF)](https://github.com/BibinVR15)
-[![GitHub Stars](https://img.shields.io/github/stars/BibinVR15?style=for-the-badge&logo=github&color=gold)](https://github.com/BibinVR15)
+![Profile Views](https://komarev.com/ghpvc/?username=Bibin-VR&color=blueviolet&style=for-the-badge)
+[![GitHub Followers](https://img.shields.io/github/followers/Bibin-VR?style=for-the-badge&logo=github&color=00F7FF)](https://github.com/Bibin-VR)
+[![GitHub Stars](https://img.shields.io/github/stars/Bibin-VR?style=for-the-badge&logo=github&color=gold)](https://github.com/Bibin-VR)
 
 </div>
 
@@ -25,7 +25,7 @@
 ```python
 class BibinVR:
     def __init__(self):
-        self.username = "BibinVR15"
+        self.username = "Bibin-VR"
         self.name = "BIBIN V R"
         self.location = "Srinivas University 🎓"
         self.orcid = "0009-0003-5205-2523"
@@ -69,9 +69,9 @@ me.say_hi()
 
 <br>
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/BibinVR15/text-to-speech-conversation-)
-[![Language](https://img.shields.io/badge/Language-Python-yellow?style=flat-square&logo=python)](https://github.com/BibinVR15/text-to-speech-conversation-)
-[![License](https://img.shields.io/badge/License-Apache%202.0-green?style=flat-square)](https://github.com/BibinVR15/text-to-speech-conversation-)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/Bibin-VR/text-to-speech-conversation-)
+[![Language](https://img.shields.io/badge/Language-Python-yellow?style=flat-square&logo=python)](https://github.com/Bibin-VR/text-to-speech-conversation-)
+[![License](https://img.shields.io/badge/License-Apache%202.0-green?style=flat-square)](https://github.com/Bibin-VR/text-to-speech-conversation-)
 
 **🎯 Mission:** Converts digital text to speech with natural-sounding conversations
 
@@ -92,9 +92,9 @@ me.say_hi()
 
 <br>
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/BibinVR15/PDF-conversation)
-[![Language](https://img.shields.io/badge/Language-Python-yellow?style=flat-square&logo=python)](https://github.com/BibinVR15/PDF-conversation)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://github.com/BibinVR15/PDF-conversation)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/Bibin-VR/PDF-conversation)
+[![Language](https://img.shields.io/badge/Language-Python-yellow?style=flat-square&logo=python)](https://github.com/Bibin-VR/PDF-conversation)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://github.com/Bibin-VR/PDF-conversation)
 
 **🎯 Mission:** Ask questions and get answers directly from PDF files
 
@@ -115,8 +115,8 @@ me.say_hi()
 
 <br>
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/BibinVR15/mnist_dataset)
-[![License](https://img.shields.io/badge/License-Apache%202.0-green?style=flat-square)](https://github.com/BibinVR15/mnist_dataset)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/Bibin-VR/mnist_dataset)
+[![License](https://img.shields.io/badge/License-Apache%202.0-green?style=flat-square)](https://github.com/Bibin-VR/mnist_dataset)
 
 **🎯 Mission:** Handwritten digit recognition using deep learning
 
@@ -139,7 +139,7 @@ me.say_hi()
 
 <br>
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/BibinVR15/artibitsstudio)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/Bibin-VR/artibitsstudio)
 ![Type](https://img.shields.io/badge/Type-Website-orange?style=flat-square)
 
 **🎯 Mission:** Creative digital studio showcase
@@ -161,8 +161,8 @@ me.say_hi()
 
 <br>
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/BibinVR15/Health_Monitor)
-[![Language](https://img.shields.io/badge/Language-HTML-red?style=flat-square&logo=html5)](https://github.com/BibinVR15/Health_Monitor)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/Bibin-VR/Health_Monitor)
+[![Language](https://img.shields.io/badge/Language-HTML-red?style=flat-square&logo=html5)](https://github.com/Bibin-VR/Health_Monitor)
 ![Type](https://img.shields.io/badge/Type-Website-orange?style=flat-square)
 
 **🎯 Mission:** Health tracking and monitoring platform
@@ -186,8 +186,8 @@ me.say_hi()
 
 <br>
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/BibinVR15/Go2W_ws)
-[![Language](https://img.shields.io/badge/Language-C++-purple?style=flat-square&logo=cplusplus)](https://github.com/BibinVR15/Go2W_ws)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/Bibin-VR/Go2W_ws)
+[![Language](https://img.shields.io/badge/Language-C++-purple?style=flat-square&logo=cplusplus)](https://github.com/Bibin-VR/Go2W_ws)
 ![Type](https://img.shields.io/badge/Type-Automation-cyan?style=flat-square)
 
 **🎯 Mission:** Automated task execution and workflow management
@@ -209,8 +209,8 @@ me.say_hi()
 
 <br>
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/BibinVR15/Drizzle)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://github.com/BibinVR15/Drizzle)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/Bibin-VR/Drizzle)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://github.com/Bibin-VR/Drizzle)
 
 **🎯 Mission:** Umbrella vending machine system
 
@@ -231,7 +231,7 @@ me.say_hi()
 
 <br>
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/BibinVR15/Ocean-debris-mapping)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/Bibin-VR/Ocean-debris-mapping)
 
 **🎯 Mission:** Mapping and tracking ocean pollution
 
@@ -252,8 +252,8 @@ me.say_hi()
 
 <br>
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/BibinVR15/Lilo)
-[![License](https://img.shields.io/badge/License-Apache%202.0-green?style=flat-square)](https://github.com/BibinVR15/Lilo)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/Bibin-VR/Lilo)
+[![License](https://img.shields.io/badge/License-Apache%202.0-green?style=flat-square)](https://github.com/Bibin-VR/Lilo)
 
 **🎯 Mission:** [Mystery project - explore to discover!]
 
@@ -275,11 +275,11 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BibinVR15&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bibin-VR&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=BibinVR15&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Bibin-VR&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BibinVR15&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bibin-VR&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -325,8 +325,8 @@ const currentGoals = {
 <div align="center">
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--5205--2523-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-5205-2523)
-[![GitHub](https://img.shields.io/badge/GitHub-BibinVR15-181717?style=for-the-badge&logo=github)](https://github.com/BibinVR15)
-[![University](https://img.shields.io/badge/University-Srinivas-blue?style=for-the-badge&logo=google-scholar&logoColor=white)](https://github.com/BibinVR15)
+[![GitHub](https://img.shields.io/badge/GitHub-Bibin-VR-181717?style=for-the-badge&logo=github)](https://github.com/Bibin-VR)
+[![University](https://img.shields.io/badge/University-Srinivas-blue?style=for-the-badge&logo=google-scholar&logoColor=white)](https://github.com/Bibin-VR)
 
 </div>
 
@@ -351,7 +351,7 @@ while(alive):
 
 <sub>Made with 💖, ☕, and a whole lot of ✨ dedication!</sub>
 
-<img src="https://komarev.com/ghpvc/?username=BibinVR15&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Bibin-VR&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 **⭐ Star my repos if you find them interesting! ⭐**
 
