@@ -275,11 +275,11 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BibinVR15&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bibin-VR&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=BibinVR15&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Bibin-VR&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BibinVR15&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bibin-VR&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -325,8 +325,8 @@ const currentGoals = {
 <div align="center">
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--5205--2523-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-5205-2523)
-[![GitHub](https://img.shields.io/badge/GitHub-BibinVR15-181717?style=for-the-badge&logo=github)](https://github.com/BibinVR15)
-[![University](https://img.shields.io/badge/University-Srinivas-blue?style=for-the-badge&logo=google-scholar&logoColor=white)](https://github.com/BibinVR15)
+[![GitHub](https://img.shields.io/badge/GitHub-Bibin-VR-181717?style=for-the-badge&logo=github)](https://github.com/BibinVR15)
+[![University](https://img.shields.io/badge/University-Srinivas-blue?style=for-the-badge&logo=google-scholar&logoColor=white)](https://github.com/Bibin-VR)
 
 </div>
 
@@ -351,7 +351,7 @@ while(alive):
 
 <sub>Made with 💖, ☕, and a whole lot of ✨ dedication!</sub>
 
-<img src="https://komarev.com/ghpvc/?username=BibinVR15&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Bibin-VR&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 **⭐ Star my repos if you find them interesting! ⭐**
 
