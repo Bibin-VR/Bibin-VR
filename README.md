@@ -49,11 +49,13 @@ BASE       Srinivas University, India
 
 | Project | Stack | Description |
 |:---|:---:|:---|
-| **[GXBridge-MCP](https://github.com/Bibin-VR/GXBridge-MCP)** | MCP server | Control Mitsubishi GX Works3 and a live PLC with AI — open projects, author logic, and read/write devices in natural language |
+| **[GXBridge-MCP](https://github.com/Bibin-VR/GXBridge-MCP)** | .NET · MCP server | Control Mitsubishi GX Works3 and a live PLC with AI — 46 tools, natural-language authoring, remote engineering over SSH |
+| **[Tovex-ARM](https://github.com/Bibin-VR/Tovex-ARM)** | Python · Raspberry Pi | Configurable industrial data-logger platform for Mitsubishi PLC lines — in production on live check-weigher lines |
+| **[eplanbridge](https://github.com/Bibin-VR/eplanbridge)** | C# · PowerShell | Drive EPLAN Pro Panel from outside the GUI — scripted a 273-symbol, 129-connection robot-arm control schematic |
+| **[Go2W](https://github.com/Bibin-VR/Go2W)** | Python · C++ | Voice-controlled Unitree Go2 robot system — offline wake-word detection, Gemini command interpretation |
 | **[Tovex-ERP](https://github.com/Bibin-VR/Tovex-ERP)** | React · TypeScript · WebGL | Front-end-only industrial ERP demo — 12-role RBAC, three.js/GLSL shader UI |
-| **[checkweigher](https://github.com/Bibin-VR/checkweigher)** | Python | High-speed industrial checkweigher — XT1000 + T16 load cell, IR & motion sensors, Raspberry Pi 4 |
 | **[CRM-Home](https://github.com/Bibin-VR/CRM-Home)** | TypeScript | Manufacturing CRM/ERP — sales, inventory, production, and projects in one dashboard |
-| **[Go2W_ws](https://github.com/Bibin-VR/Go2W_ws)** | Python · C++ | Voice-controlled Unitree Go2 robot system — offline wake-word detection, Gemini command interpretation |
+| **[checkweigher](https://github.com/Bibin-VR/checkweigher)** | Python | High-speed industrial checkweigher — XT1000 + T16 load cell, IR & motion sensors, Raspberry Pi 4 |
 | **[GrandMovement](https://github.com/Bibin-VR/GrandMovement)** | React · Framer Motion | Travel agency landing page |
 | **[PDF-conversation](https://github.com/Bibin-VR/PDF-conversation)** | Python | AI-powered document Q&A — natural-language queries over PDF content |
 | **[artibitsstudio](https://github.com/Bibin-VR/artibitsstudio)** | React · FastAPI | Robotics/AI studio portfolio site |
