@@ -89,6 +89,6 @@ BASE       Srinivas University, India
 
 <br>
 
-[bibinvr.tech](https://bibinvr.tech) &nbsp;·&nbsp; [github.com/Bibin-VR](https://github.com/Bibin-VR) &nbsp;·&nbsp; [Tovex AI](https://github.com/Tovex-AI)
+[bibinvr.tech](https://bibinvr.tech) &nbsp;·&nbsp; [github.com/Bibin-VR](https://github.com/Bibin-VR) &nbsp;·&nbsp; [Tovex Systems](https://github.com/Tovex-Systems)
 
 </div>
