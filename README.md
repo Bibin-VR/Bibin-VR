@@ -17,7 +17,7 @@
 
 ```
 POSITION   Developer & Researcher
-COMPANY    @Tovex-AI
+COMPANY    @Tovex-Systems
 DOMAIN     Industrial IoT  ·  Edge Computing  ·  AI Systems
 BASE       Srinivas University, India
 ```
